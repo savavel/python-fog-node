@@ -1,5 +1,8 @@
 # python-fog-node
 
+The project is part of a Fog Network Simulator which tries to simulate the use case of a vehicle collision on a public road and prevent further incidents by sending alerts to other drivers in the vicinity.
+
+
 The Fog node represents an intermediary between cloud infrastructure and the edge devices (clients) of the network.
 This new networking paradign was coined by Cisco, namely Fog & Edge Computing.
 
